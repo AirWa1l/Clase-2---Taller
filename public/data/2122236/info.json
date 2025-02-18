@@ -1,0 +1,9 @@
+{
+    "nombre": "Michael Ramirez",
+    "edad": 23,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 6,
+    "gustos": ["Balonmano", "Jugar", "Comer", "Reir"],
+    "noGustos": ["Madrugar", "Comida fria", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS291kLsoy1WRHLjgBo7QpwFL9sNtEu9Ua-og&s"
+}
