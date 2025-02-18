@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Fernando Calle Sanchez",
+    "edad": 21,
+    "carrera": "Ing sistema",
+    "semestre": 3,
+    "gustos": ["Musica", "Gímnasio", "Nadar", "Jugar"],
+    "noGustos": ["Despertarse temprano", "Los niños", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
