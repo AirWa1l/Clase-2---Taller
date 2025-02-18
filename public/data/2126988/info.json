@@ -1,0 +1,9 @@
+{
+    "nombre": "Jose Adrian Marin Ordoñez",
+    "edad": 22,
+    "carrera": "Ingenieria de Sistemas",
+    "semestre": 7,
+    "gustos": ["Videojuegos", "Cine", "Basketball", "Cocinar"],
+    "noGustos": ["Despertarse temprano", "Alarmas", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
