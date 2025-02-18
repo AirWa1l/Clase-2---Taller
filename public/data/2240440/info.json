@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Pinto",
+    "edad": 20,
+    "carrera": "Ingenieria en sistemas",
+    "semestre": 6,
+    "gustos": ["tenis", "jugar póker en discord", "Leer", "Aprender"],
+    "noGustos": ["Tareas", "chontaduro", "jugo de badea", "madrugar"],
+    "foto": "https://i.pinimg.com/736x/25/d9/87/25d987615de6d119d5e8dd034de91e6a.jpg"
+}
