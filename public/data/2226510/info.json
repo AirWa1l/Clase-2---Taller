@@ -1,0 +1,9 @@
+{
+    "nombre": "Jhon Frank Vasquez",
+    "edad": 20,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["Trabajar", "Series", "Comer", "Programar"],
+    "noGustos": ["Cebolla", "Sopa", "Tareas largas"],
+    "foto": "https://concepto.de/wp-content/uploads/2020/12/imagen-e1607991781485.jpg"
+}
