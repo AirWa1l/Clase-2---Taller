@@ -1,0 +1,10 @@
+{
+    "nombre": "Juan David Fonseca",
+    "edad": 22,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos": ["Basket", "Motos", "Comer", "Viajar"],
+    "noGustos": ["Despertarse temprano", "Habichuelas"],
+    "foto": "https://mx.pinterest.com/pin/691724824045904512/"
+}
+  
